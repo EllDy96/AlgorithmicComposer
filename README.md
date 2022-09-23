@@ -1,4 +1,4 @@
-# Algorithmic Composer based on MArkov Chain
+# Algorithmic Composer based on a Markov Chain
 
 IT Engineering Bachelor's thesis focused on the design of a computational creativity system for the automatic generation of monophonic melodies using a Markov chain. It works thanks to an initial music information retrieval step, which consisted of the elaboration of more than 1200 scores taken by the "Nottingham Dataset" (Irish set of popular music). I analyzed the corpus using Python's library Music21 then I designed a Markov chain to emulate the human process called “combinatorial creativity”.
 
